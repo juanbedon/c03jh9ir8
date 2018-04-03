@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  GET '/actors'
+  GET 'actors'
 end
