@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root 'actors#index'
+  GET '/actors'
 end
