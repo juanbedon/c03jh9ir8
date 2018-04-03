@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  GET 'actors'
+  get 'actors#index'
 end
